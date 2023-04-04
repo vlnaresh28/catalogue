@@ -1,5 +1,3 @@
 @Library('roboshop') _
 
-pipeline {
-
-}
+ci()
